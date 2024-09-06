@@ -1,4 +1,88 @@
 ## 🔖 Articles
+	- [Psychedelic socialism | openDemocracy](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9)
+	  collapsed:: true
+	  site:: [openDemocracy](https://www.opendemocracy.net/en/psychedelic-socialism/)
+	  author:: Jeremy Gilbert
+	  labels:: [[economia]] [[filosofia]]
+	  date-saved:: [[Jul 25th, 2024]]
+	  date-published:: [[Sep 22nd, 2017]]
+		- ### Highlights
+		  collapsed:: true
+			- > radical affinity group [Plan C](https://www.weareplanc.org/about/) [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#1edc4760-c710-4881-9002-131e3ae27ca5)
+			- > This utopian orientation rejected both the conformism and authoritarianism which characterised much of post-war society, and the crass individualism of consumer culture. [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#89f800cc-2b71-493a-9e17-303f522d4bb3)
+			- > It sought to change and raise the consciousness of singular people and the whole society, be that through the creative use of psychedelic chemicals, aesthetic experiments in music and other arts, social and political revolution, or all of the above. [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#aed39d58-81dc-4ff0-8551-e99532481f61)
+			- > ‘Acid’ as an adjective, describing an attitude of improvisatory creativity and belief in the possibility of seeing the world differently, in order to improve it, deliberately ‘expanding’ consciousness through resolutely materialist means. [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#0f849430-af03-4d1d-af44-9002e7fe7e11)
+			- > These commentators tend to focus on how the utopianism of the counterculture apparently led directly to the banal individualism of New Age and of late twentieth century narcissistic consumerism. But I[ have always argued](https://www.opendemocracy.net/uk/jeremy-gilbert/why-did-working-class-culture-disintegrate-in-1980s-sort-of-reply-to-paul-mason) that those outcomes were distortions of the radical potential of the counterculture, which had to be [neutralised and captured](https://www.opendemocracy.net/ourkingdom/jeremy-gilbert/moving-on-from-market-society-culture-and-cultural-studies-in-post-democra) by a capitalist culture which found itself under genuine threat from radical forces in the early 1970s. [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#1d00a554-715a-46d0-950b-61925e14e57b)
+	- [Architecture Inspired by Permaculture: How to Integrate Its Design Principles Across Diverse Contexts? | ArchDaily](https://omnivore.app/me/https-www-archdaily-com-1017400-architecture-inspired-by-permacu-19034c7b518)
+	  collapsed:: true
+	  site:: [ArchDaily](https://www.archdaily.com/1017400/architecture-inspired-by-permaculture-how-to-integrate-its-design-principles-across-diverse-contexts)
+	  author:: Agustina Iñiguez
+	  labels:: [[arquitetura]]
+	  date-saved:: [[Jun 20th, 2024]]
+	  date-published:: [[Jun 19th, 2024]]
+		- ### Highlights
+		  collapsed:: true
+			- > The concept of permaculture refers to a design system capable of creating [sustainable human environments](https://www.archdaily.com/tag/sustainable-architecture) based on an ethic and a series of [ecological](https://www.archdaily.com/tag/ecology), [environmental](https://www.archdaily.com/tag/environment), and [resilience](https://www.archdaily.com/tag/adtopic-resiliency) design principles. [⤴️](https://omnivore.app/me/https-www-archdaily-com-1017400-architecture-inspired-by-permacu-19034c7b518#0c6b96e9-af63-40e5-9cc6-d2cfa20fea8c)
+	- [On the Abolition of All Political Parties | The Anarchist Library](https://omnivore.app/me/on-the-abolition-of-all-political-parties-the-anarchist-library-18f71123c0b)
+	  collapsed:: true
+	  site:: [The Anarchist Library](https://theanarchistlibrary.org/library/simone-weil-on-the-abolition-of-all-political-parties)
+	  author:: Author: Simone Weil
+	  labels:: [[politica]]
+	  date-saved:: [[May 13th, 2024]]
+	  date-published:: [[Jan 1st, 1957]]
+		- ### Highlights
+		  collapsed:: true
+			- > A conscience vote – what an extraordinary notion! It should be a pleonasm: don’t we all assume that _every_ vote – by definition – is being made by MPs _who listen to their consciences_, instead of following some diktat from a political party? [⤴️](https://omnivore.app/me/on-the-abolition-of-all-political-parties-the-anarchist-library-18f71123c0b#69d28421-2481-4626-b79f-90cb3c26c766)
+	- [Nutrients | Free Full-Text | Fat, Sugar, Whole Grains and Heart Disease: 50 Years of Confusion](https://omnivore.app/me/nutrients-free-full-text-fat-sugar-whole-grains-and-heart-diseas-18e4238c4ea)
+	  collapsed:: true
+	  site:: [MDPI](https://www.mdpi.com/2072-6643/10/1/39)
+	  author:: Norman J. Temple
+	  labels:: [[nutrição]]
+	  date-saved:: [[Mar 15th, 2024]]
+		- ### Highlights
+		  collapsed:: true
+			- > A switch from SFA to refined carbohydrates does not lower the ratio of total cholesterol to HDL-cholesterol in the blood and therefore does not prevent CHD. A reduced intake of SFA combined with an increased intake of polyunsaturated fatty acids lowers the ratio of total cholesterol to HDL-cholesterol; this may reduce the risk of CHD. [⤴️](https://omnivore.app/me/nutrients-free-full-text-fat-sugar-whole-grains-and-heart-diseas-18e4238c4ea#eaec3bd7-ce3e-457b-8d65-237eae1ebd31)
+			- > Refined carbohydrates, especially sugar-sweetened beverages, increase the risk of CHD. [⤴️](https://omnivore.app/me/nutrients-free-full-text-fat-sugar-whole-grains-and-heart-diseas-18e4238c4ea#ef43875d-9705-4f61-82a9-5ec5ae471ceb)
+			- > Conversely, whole grains and cereal fiber are protective. An extra one or 2 servings per day of these foods increases or decreases risk by approximately 10% to 20%. [⤴️](https://omnivore.app/me/nutrients-free-full-text-fat-sugar-whole-grains-and-heart-diseas-18e4238c4ea#37f59602-f2a5-434d-a3a1-15bf5915702e)
+			- > Yudkin argued that sugar was implicated in several diseases, most notably CHD [⤴️](https://omnivore.app/me/nutrients-free-full-text-fat-sugar-whole-grains-and-heart-diseas-18e4238c4ea#ec271af1-e5e7-4f51-b9cc-617c12dc869b)
+			- > there was no established mechanism by which sugar might cause CHD. [⤴️](https://omnivore.app/me/nutrients-free-full-text-fat-sugar-whole-grains-and-heart-diseas-18e4238c4ea#9b87511f-a224-4e47-84dc-cbdfe6a01c12)
+			- > cohort studies published at that time failed to find a clear association between intake of sugar and risk of CHD. [⤴️](https://omnivore.app/me/nutrients-free-full-text-fat-sugar-whole-grains-and-heart-diseas-18e4238c4ea#fb944622-57b5-4994-8d97-f458de869004)
+			- > the sugar industry in the USA paid researchers to publish papers that emphasized the role of SFA in the causation of CHD while minimizing the role of sugar [⤴️](https://omnivore.app/me/nutrients-free-full-text-fat-sugar-whole-grains-and-heart-diseas-18e4238c4ea#a40b691a-8b07-4dce-b46e-a52fc1c92453)
+			- > blood TC level. [⤴️](https://omnivore.app/me/nutrients-free-full-text-fat-sugar-whole-grains-and-heart-diseas-18e4238c4ea#c519a3f3-efb4-4618-9fd9-96e9ae306e56) 
+			  
+			  note:: Total cholesterol
+	- [Patagonian people were riding horses long before Europeans arrived | Science | AAAS](https://omnivore.app/me/patagonian-people-were-riding-horses-long-before-europeans-arriv-18c4b2dd2fb)
+	  collapsed:: true
+	  site:: [science.org](https://www.science.org/content/article/patagonian-people-were-riding-horses-long-europeans-arrived)
+	  author:: Andrew Curry Twitter Andrew Curry is a journalist in Berlin. View more
+	  labels:: [[RSS]]
+	  date-saved:: [[Dec 8th, 2023]]
+	  date-published:: [[Dec 8th, 2023]]
+		- ### Highlights
+		  collapsed:: true
+			- > Now, researchers say they’ve figured out when the horses got there. A study published today in Science Advances finds that after the animals were released by a failed Spanish colony in Buenos Aires, Argentina, 1000 kilometers to the north, Indigenous people in the region rapidly incorporated the newly introduced animal into their culture, expanding its range to the southernmost tip of South America within about a century. [⤴️](https://omnivore.app/me/patagonian-people-were-riding-horses-long-before-europeans-arriv-18c4b2dd2fb#5817a2ca-1948-445d-b487-3bdcc318ad64)
+	- [A ‘living skin’ is protecting the Great Wall of China from erosion | Science | AAAS](https://omnivore.app/me/a-living-skin-is-protecting-the-great-wall-of-china-from-erosion-18c4b2dce87)
+	  collapsed:: true
+	  site:: [science.org](https://www.science.org/content/article/living-skin-protecting-great-wall-china-erosion)
+	  author:: Ethan Freedman Author View more
+	  labels:: [[RSS]]
+	  date-saved:: [[Dec 8th, 2023]]
+	  date-published:: [[Dec 8th, 2023]]
+		- ### Highlights
+		  collapsed:: true
+			- > But many sections of the remaining walls seem to be getting preservation help from an unlikely source: thin layers of bacteria, moss, lichen, and other organisms known as biocrusts, which grow on the surface of soils.
+			  > 
+			  A study published today in Science Advances finds that these so-called “living skins” [have likely protected parts of the Great Wall](https://www.science.org/doi/10.1126/sciadv.adk5892) from wind, rain, and other corrosive forces. And with advances in technology and research, scientists might eventually propagate new biocrusts to spare the wall from further degradation. [⤴️](https://omnivore.app/me/a-living-skin-is-protecting-the-great-wall-of-china-from-erosion-18c4b2dce87#c8bedae2-8e8a-44cd-8884-b2c62caf68c2)
+	- [‘Not dumb creatures.’ Livestock surprise scientists with their complex, emotional minds | Science | AAAS](https://omnivore.app/me/not-dumb-creatures-livestock-surprise-scientists-with-their-comp-18c4534030e)
+	  collapsed:: true
+	  site:: [science.org](https://www.science.org/content/article/not-dumb-creatures-livestock-surprise-scientists-their-complex-emotional-minds)
+	  author:: David Grimm
+	  labels:: [[RSS]]
+	  date-saved:: [[Dec 7th, 2023]]
+	  date-published:: [[Dec 7th, 2023]]
+		- ### Highlights
+		  collapsed:: true
+			- > The work is part of a small, but growing field that’s beginning to overturn the idea that livestock are dumb and unworthy of scientific attention. Over the past decade, researchers at FBN and elsewhere have shown that pigs show signs of empathy, goats rival dogs in some tests of social intelligence, and, in one of the field’s, um, splashiest recent finds, cows can be potty trained, suggesting a self-awareness behind the blank stares and cud chewing that has shocked even some experts. [⤴️](https://omnivore.app/me/not-dumb-creatures-livestock-surprise-scientists-with-their-comp-18c4534030e#61189543-49db-4a3b-8240-ac87e5250ae0)
 	- [Spain wants to change how it evaluates scientists—and end the ‘dictatorship of papers’ | Science | AAAS](https://omnivore.app/me/spain-wants-to-change-how-it-evaluates-scientists-and-end-the-di-18c1cd7adea)
 	  site:: [science.org](https://www.science.org/content/article/spain-wants-change-how-it-evaluates-scientists-and-end-dictatorship-papers)
 	  author:: María de los Ángeles Orfila
