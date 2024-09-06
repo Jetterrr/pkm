@@ -14,14 +14,12 @@
 			- > ‘Acid’ as an adjective, describing an attitude of improvisatory creativity and belief in the possibility of seeing the world differently, in order to improve it, deliberately ‘expanding’ consciousness through resolutely materialist means. [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#0f849430-af03-4d1d-af44-9002e7fe7e11)
 			- > These commentators tend to focus on how the utopianism of the counterculture apparently led directly to the banal individualism of New Age and of late twentieth century narcissistic consumerism. But I[ have always argued](https://www.opendemocracy.net/uk/jeremy-gilbert/why-did-working-class-culture-disintegrate-in-1980s-sort-of-reply-to-paul-mason) that those outcomes were distortions of the radical potential of the counterculture, which had to be [neutralised and captured](https://www.opendemocracy.net/ourkingdom/jeremy-gilbert/moving-on-from-market-society-culture-and-cultural-studies-in-post-democra) by a capitalist culture which found itself under genuine threat from radical forces in the early 1970s. [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#1d00a554-715a-46d0-950b-61925e14e57b)
 	- [Architecture Inspired by Permaculture: How to Integrate Its Design Principles Across Diverse Contexts? | ArchDaily](https://omnivore.app/me/https-www-archdaily-com-1017400-architecture-inspired-by-permacu-19034c7b518)
-	  collapsed:: true
 	  site:: [ArchDaily](https://www.archdaily.com/1017400/architecture-inspired-by-permaculture-how-to-integrate-its-design-principles-across-diverse-contexts)
 	  author:: Agustina Iñiguez
 	  labels:: [[arquitetura]]
 	  date-saved:: [[Jun 20th, 2024]]
 	  date-published:: [[Jun 19th, 2024]]
 		- ### Highlights
-		  collapsed:: true
 			- > The concept of permaculture refers to a design system capable of creating [sustainable human environments](https://www.archdaily.com/tag/sustainable-architecture) based on an ethic and a series of [ecological](https://www.archdaily.com/tag/ecology), [environmental](https://www.archdaily.com/tag/environment), and [resilience](https://www.archdaily.com/tag/adtopic-resiliency) design principles. [⤴️](https://omnivore.app/me/https-www-archdaily-com-1017400-architecture-inspired-by-permacu-19034c7b518#0c6b96e9-af63-40e5-9cc6-d2cfa20fea8c)
 	- [On the Abolition of All Political Parties | The Anarchist Library](https://omnivore.app/me/on-the-abolition-of-all-political-parties-the-anarchist-library-18f71123c0b)
 	  collapsed:: true
