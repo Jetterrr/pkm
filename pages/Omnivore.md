@@ -4,10 +4,17 @@
 	  site:: [openDemocracy](https://www.opendemocracy.net/en/psychedelic-socialism/)
 	  author:: Jeremy Gilbert
 	  labels:: [[economia]] [[filosofia]]
-	  date-saved:: [[Jul 25th, 2024]]
-	  date-published:: [[Sep 22nd, 2017]]
+	  date-saved:: [[25-07-2024]]
+	  date-published:: [[22-09-2017]]
 		- ### Highlights
 		  collapsed:: true
+			- > The aspiration for a society in which human life is not dictated by the demands of toil is surely one shared by socialists, artists, bohemians and mystics. [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#e1fe1895-1c84-492a-bd62-e3b8837e0571)
+			- > Escape from that illusion – realisation that the self is only an incidental element of a wider cosmos – is sometimes referred to as ‘enlightentment’, but the original sanskrit and pali terms might be better translated as ‘awoken’. Maybe it’s not an accident that ‘woke’ has become a popular radical slang term for raised political consciousness. [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#fccc17ae-099a-4ab6-9095-5298e2d25c1f)
+			- > The mystical idea of ‘higher’ (‘elevated’, ‘universal’ or ‘cosmic’) consciousness has its roots in Hindu and Buddhist idea that the individual self is an illusion. [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#6042df87-7c34-4534-9899-efebf4e3b08f)
+			- > The idea of raised political consciousness had its roots in the Marxist idea of ‘class consciousness’, whereby workers come to realise that their shared interests as workers are more significant than their private interests as individuals, or the cultural differences they may have with other workers. [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#b308ceba-0a80-4f62-9671-1ffbe514dbd4)
+			- > ‘raising’ consciousness isn’t just a matter of giving people information about the sources of their oppression, but of enabling them to feel personally and collectively powerful enough to challenge it. [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#d7f51921-ec54-4da5-a708-edb3b0d03538)
+			- > What linked together all of their political positions was a rejection both of traditional hierarchies and of any simple individualism. [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#c2808a3a-13cc-40a9-9f2f-16088065fd03)
+			- > These movements were libertarian, promoting an ideal of freedom, but they understood freedom as something that could only be [achieved or experienced collectively](https://www.opendemocracy.net/blog/ourkingdom/jeremy-gilbert/2009/09/26/liberalism-does-not-imply-democracy). [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#a7121567-5ad3-4abb-ad14-85d59a48ebad)
 			- > radical affinity group [Plan C](https://www.weareplanc.org/about/) [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#1edc4760-c710-4881-9002-131e3ae27ca5)
 			- > This utopian orientation rejected both the conformism and authoritarianism which characterised much of post-war society, and the crass individualism of consumer culture. [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#89f800cc-2b71-493a-9e17-303f522d4bb3)
 			- > It sought to change and raise the consciousness of singular people and the whole society, be that through the creative use of psychedelic chemicals, aesthetic experiments in music and other arts, social and political revolution, or all of the above. [⤴️](https://omnivore.app/me/psychedelic-socialism-open-democracy-190e91e9db9#aed39d58-81dc-4ff0-8551-e99532481f61)
