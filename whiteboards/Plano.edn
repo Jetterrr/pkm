@@ -1,15 +1,15 @@
 {:blocks (
-{:block/created-at 1730936595608
+{:block/created-at 1730936632042
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
-:stroke ""
+:stroke "red"
 :borderRadius 0
 :index 0
 :scale [1 1]
 :scaleLevel "sm"
-:fill ""
+:fill "red"
 :type "text"
 :size [269 30]
 :fontFamily "var(--ls-font-family)"
@@ -24,19 +24,19 @@
 :lineHeight 1.2
 :fontSize 16
 :parentId "672bfdb8-7196-46cb-b815-55fe37517f8a"
-:nonce 1730936251754
+:nonce 1730936251755
 :italic false
 :text "PDFs, podcasts, audiobooks, videos"}}
-:block/updated-at 1730936595608} 
-{:block/created-at 1730936595608
+:block/updated-at 1730936632042} 
+{:block/created-at 1730936632042
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:stroke ""
+{:stroke "red"
 :index 1
 :scale [1 1]
 :scaleLevel "sm"
-:fill ""
+:fill "red"
 :type "line"
 :strokeType "line"
 :strokeWidth 1
@@ -61,20 +61,20 @@
 :decorations 
 {:end "arrow"}
 :parentId "672bfdb8-7196-46cb-b815-55fe37517f8a"
-:nonce 1730936293929
+:nonce 1730936293930
 :italic false}}
-:block/updated-at 1730936595608} 
-{:block/created-at 1730936557483
+:block/updated-at 1730936632042} 
+{:block/created-at 1730936632042
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
-:stroke ""
+:stroke "red"
 :borderRadius 0
 :index 2
 :scale [1 1]
 :scaleLevel "sm"
-:fill ""
+:fill "red"
 :type "text"
 :size [179 30]
 :fontFamily "var(--ls-font-family)"
@@ -89,10 +89,10 @@
 :lineHeight 1.2
 :fontSize 16
 :parentId "672bfdb8-7196-46cb-b815-55fe37517f8a"
-:nonce 1730936298688
+:nonce 1730936298689
 :italic false
 :text "Anotar no daily journal"}}
-:block/updated-at 1730936557483} 
+:block/updated-at 1730936632042} 
 {:block/content "Anotar diretamente no daily journal"
 :block/format :markdown
 :block/left 
@@ -100,17 +100,17 @@
 :block/parent 
 {:block/uuid #uuid "672bfdb8-7196-46cb-b815-55fe37517f8a"}
 :block/uuid #uuid "672bfe04-7113-4aae-8cf8-d89048ee5d3d"} 
-{:block/created-at 1730936580942
+{:block/created-at 1730936632042
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
-:stroke ""
+:stroke "red"
 :borderRadius 0
 :index 3
 :scale [1 1]
 :scaleLevel "sm"
-:fill ""
+:fill "red"
 :type "text"
 :size [55 30]
 :fontFamily "var(--ls-font-family)"
@@ -125,19 +125,19 @@
 :lineHeight 1.2
 :fontSize 16
 :parentId "672bfdb8-7196-46cb-b815-55fe37517f8a"
-:nonce 1730936341954
+:nonce 1730936341955
 :italic false
 :text "Livros"}}
-:block/updated-at 1730936580942} 
-{:block/created-at 1730936588662
+:block/updated-at 1730936632042} 
+{:block/created-at 1730936632042
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:stroke ""
+{:stroke "red"
 :index 4
 :scale [1 1]
 :scaleLevel "sm"
-:fill ""
+:fill "red"
 :type "line"
 :strokeType "line"
 :strokeWidth 1
@@ -163,20 +163,20 @@
 :decorations 
 {:end "arrow"}
 :parentId "672bfdb8-7196-46cb-b815-55fe37517f8a"
-:nonce 1730936293987
+:nonce 1730936293988
 :italic false}}
-:block/updated-at 1730936588662} 
-{:block/created-at 1730936574823
+:block/updated-at 1730936632042} 
+{:block/created-at 1730936632042
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
-:stroke ""
+:stroke "red"
 :borderRadius 0
 :index 5
 :scale [1 1]
 :scaleLevel "sm"
-:fill ""
+:fill "red"
 :type "text"
 :size [147 30]
 :fontFamily "var(--ls-font-family)"
@@ -192,19 +192,19 @@
 :lineHeight 1.2
 :fontSize 16
 :parentId "672bfdb8-7196-46cb-b815-55fe37517f8a"
-:nonce 1730936298908
+:nonce 1730936298909
 :italic false
 :text "Anotar e sublinhar"}}
-:block/updated-at 1730936574823} 
-{:block/created-at 1730936574823
+:block/updated-at 1730936632042} 
+{:block/created-at 1730936632042
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:stroke ""
+{:stroke "red"
 :index 6
 :scale [1 1]
 :scaleLevel "sm"
-:fill ""
+:fill "red"
 :type "line"
 :strokeType "line"
 :strokeWidth 1
@@ -229,9 +229,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "672bfdb8-7196-46cb-b815-55fe37517f8a"
-:nonce 1730936395257
+:nonce 1730936395258
 :italic false}}
-:block/updated-at 1730936574823} 
+:block/updated-at 1730936632042} 
 {:block/created-at 1730936623928
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -326,15 +326,15 @@
 :italic false
 :text "Mais conhecimento"}}
 :block/updated-at 1730936616744} 
-{:block/created-at 1730936557483
+{:block/created-at 1730936632042
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:stroke ""
+{:stroke "red"
 :index 10
 :scale [1 1]
 :scaleLevel "sm"
-:fill ""
+:fill "red"
 :type "line"
 :strokeType "line"
 :strokeWidth 1
@@ -360,16 +360,16 @@
 :decorations 
 {:end "arrow"}
 :parentId "672bfdb8-7196-46cb-b815-55fe37517f8a"
-:nonce 1730936293970
+:nonce 1730936293971
 :italic false}}
-:block/updated-at 1730936557483})
+:block/updated-at 1730936632042})
 :pages (
 {:block/uuid #uuid "672bfdb8-7196-46cb-b815-55fe37517f8a"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
 {:id "672bfdb8-7196-46cb-b815-55fe37517f8a"
-:name "672bfdb8-7196-46cb-b815-55fe37517f8a"
+:name "plano"
 :bindings 
 {:c12c6951-9c98-11ef-82a9-671cb117e36e 
 {:id "c12c6951-9c98-11ef-82a9-671cb117e36e"
@@ -454,8 +454,8 @@
 :nonce 1
 :assets []
 :shapes-index ("17712db0-9c98-11ef-82a9-671cb117e36e" "307fab12-9c98-11ef-82a9-671cb117e36e" "3359cd20-9c98-11ef-82a9-671cb117e36e" "4d3c8a70-9c98-11ef-82a9-671cb117e36e" "57619630-9c98-11ef-82a9-671cb117e36e" "5a8e6c20-9c98-11ef-82a9-671cb117e36e" "6d01eee2-9c98-11ef-82a9-671cb117e36e" "7a441920-9c98-11ef-82a9-671cb117e36e" "966ca7c2-9c98-11ef-82a9-671cb117e36e" "a143c570-9c98-11ef-82a9-671cb117e36e" "b65b8d30-9c98-11ef-82a9-671cb117e36e")}}
-:block/updated-at 1730936623937
+:block/updated-at 1730936643163
 :block/created-at 1730936248554
 :block/type "whiteboard"
-:block/name "672bfdb8-7196-46cb-b815-55fe37517f8a"
-:block/original-name "672bfdb8-7196-46cb-b815-55fe37517f8a"})}
+:block/name "plano"
+:block/original-name "Plano"})}
