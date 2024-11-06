@@ -165,7 +165,7 @@
 :nonce 1730936293624
 :italic false}}
 :block/updated-at 1730936362215} 
-{:block/created-at 1730936367447
+{:block/created-at 1730936390969
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -177,7 +177,7 @@
 :scaleLevel "md"
 :fill ""
 :type "text"
-:size [338 34]
+:size [186 34]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -187,14 +187,49 @@
 :fontWeight 400
 :noFill true
 :isLocked false
-:point [856 416]
+:point [920 424]
 :lineHeight 1.2
 :fontSize 20
 :parentId "672bfdb8-7196-46cb-b815-55fe37517f8a"
-:nonce 1730936298521
+:nonce 1730936298622
 :italic false
-:text "Anotar diretamente no daily journal"}}
-:block/updated-at 1730936367447})
+:text "Anotar e sublinhar"}}
+:block/updated-at 1730936390969} 
+{:block/created-at 1730936397959
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "6d01eee2-9c98-11ef-82a9-671cb117e36e"
+:fontWeight 400
+:noFill true
+:point [744 440]
+:fontSize 16
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [176 0]}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId nil}}
+:decorations 
+{:end "arrow"}
+:parentId "672bfdb8-7196-46cb-b815-55fe37517f8a"
+:nonce 1730936394981
+:italic false}}
+:block/updated-at 1730936397959})
 :pages (
 {:block/uuid #uuid "672bfdb8-7196-46cb-b815-55fe37517f8a"
 :block/properties 
@@ -213,8 +248,8 @@
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("17712db0-9c98-11ef-82a9-671cb117e36e" "307fab12-9c98-11ef-82a9-671cb117e36e" "3359cd20-9c98-11ef-82a9-671cb117e36e" "4d3c8a70-9c98-11ef-82a9-671cb117e36e" "57619630-9c98-11ef-82a9-671cb117e36e" "5a8e6c20-9c98-11ef-82a9-671cb117e36e")}}
-:block/updated-at 1730936374315
+:shapes-index ("17712db0-9c98-11ef-82a9-671cb117e36e" "307fab12-9c98-11ef-82a9-671cb117e36e" "3359cd20-9c98-11ef-82a9-671cb117e36e" "4d3c8a70-9c98-11ef-82a9-671cb117e36e" "57619630-9c98-11ef-82a9-671cb117e36e" "5a8e6c20-9c98-11ef-82a9-671cb117e36e" "6d01eee2-9c98-11ef-82a9-671cb117e36e")}}
+:block/updated-at 1730936397959
 :block/created-at 1730936248554
 :block/type "whiteboard"
 :block/name "672bfdb8-7196-46cb-b815-55fe37517f8a"
